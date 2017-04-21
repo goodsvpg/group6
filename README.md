@@ -1,5 +1,5 @@
 just test
 ==========
 “`
-var i = 0
+hello
 `“
